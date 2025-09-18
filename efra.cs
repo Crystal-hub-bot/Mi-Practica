@@ -1,2 +1,3 @@
-# Hola, rama de efra activada
-# come caca
+#hola
+
+Console.WriteLine(3+3);
